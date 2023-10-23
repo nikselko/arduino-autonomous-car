@@ -18,5 +18,5 @@
 #### CODE IS UNDER MIT LICENSE
  
 ### Turn + Following line test:
-![](https://github.com/nikselko/arduino-autonomous-car/assets/46798613/8badbf96-c936-4f0e-90d9-7fa50fc2dce5)
+![gif](https://github.com/nikselko/arduino-autonomous-car/assets/46798613/8badbf96-c936-4f0e-90d9-7fa50fc2dce5)
 
