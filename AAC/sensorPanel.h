@@ -32,8 +32,6 @@ public:
     InfraredSensor Infrared_LEFT;   
     InfraredSensor Infrared_RIGHT;   
     InfraredSensor Infrared_FRONT;   
-    
-    int outputSequence[5] = {0, 0, 0, 0, 0}; 
 
     int readUS(int m_direction);
     int readIF(int m_direction);
